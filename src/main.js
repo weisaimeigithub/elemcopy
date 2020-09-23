@@ -3,8 +3,6 @@
 import Vue from 'vue'
 import App from './App'
 import router from '@/router/router.js'
-// import city from '@/page/city/city'
-// import home from '@/page/home/home'
 
 Vue.config.productionTip = false
 
